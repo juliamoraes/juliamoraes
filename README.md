@@ -8,8 +8,13 @@
 - 📺 I have fun watching netflix and listening to some music 
 
 <br/>
+<details>
+<img align="left" alt="Language Card Layout" src= (https://github-readme-stats.vercel.app/api/top-langs/?username=julia&layout=compact&langs_count=5&theme=dark)](https://github.com/juliamoraes/github-readme-stats)
+>
+</details>
 
-<img align="left" alt="juliamoraes Github Stats" src="https://github-readme-stats.vercel.app/api?username=juliamoraes&show_icons=true&hide_border=true"/> 
+<details>
+<img align="left" alt="juliamoraes Github Stats" src="https://github-readme-stats.vercel.app/api?username=juliamoraes&theme=chartreuse-dark&show_icons=true&hide_border=true"/> 
 </details>
 
 
