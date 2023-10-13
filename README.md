@@ -1,10 +1,10 @@
-### Hello, I am Julia, currently studying Software Development
+### Hello, I am Julia, Computer Science student 
 
 # More Info: 
 
 - 💻 I spent my time coding and doing algorithm exercises 
-- 🎓 I am currently studying at Kidderminster College
-- 🔧 I work as an IT Technician at home, fixing mobile phones 📱 and computers 💻
+- 🎓 I am currently studying at University of Gloucestershire (Computer Science) 
+- 🔧 I worked as an IT Support at home, hardware and software troubleshooting  📱 💻
 - 📺 I have fun watching netflix and listening to some music 
 
 <br/>
